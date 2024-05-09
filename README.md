@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Serdar 👋
 
 [![My Skills](https://skillicons.dev/icons?i=cs,net,js,bash,postgres,azure,redis,visualstudio,git,docker,kubernetes,elasticsearch,linux&theme=light)](https://skillicons.dev)
 <!-- `cute color` -->
 
-![stats](https://github-readme-stats.vercel.app/api?username=semizse&count_private=true&show_icons=true&icon_color=fff&bg_color=30,953cad,512bd4,32aeea&title_color=fff&text_color=fff&border_color=fff)
+![stats](https://github-readme-stats.vercel.app/api?username=semizse&count_private=true&show_icons=true&border_color=f4f2ed)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semizse&layout=compact&bg_color=30,953cad,512bd4,32aeea&title_color=fff&text_color=fff&border_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semizse&layout=compact&border_color=f4f2ed)
 
 <!--
 **semizse/semizse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
