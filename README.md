@@ -1,11 +1,9 @@
 ### Hi there, I'm Serdar 👋
-
+<!--
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,net,js,bash,sqlserver,postgres,azure,redis,visualstudio,git,docker,kubernetes,elasticsearch,linux&theme=light)](https://go-skill-icons.vercel.app)
-<!-- `cute color` -->
-
 ![stats](https://github-readme-stats.vercel.app/api?username=semizse&count_private=true&show_icons=true&border_color=f4f2ed)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semizse&layout=compact&border_color=f4f2ed)
+-->
 
 <!--
 **semizse/semizse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
